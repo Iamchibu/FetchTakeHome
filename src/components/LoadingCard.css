@@ -1,0 +1,41 @@
+.loading-card{
+    width: 200px;
+    height: 270px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .loading-image{
+    width: 150px;
+    height: 150px;
+    background: #ccc;
+    border-radius: 5px;
+  }
+  
+  .loading-info{
+    width: 100%;
+    margin-top: 8px;
+  }
+  
+  .loading-line{
+    height: 10px;
+    background: #ccc;
+    margin: 6px 0;
+    border-radius: 4px;
+  }
+  
+  .shimmer{
+    background-color: linear-gradient(90deg, #eee 25%, #ddd 50%, #eee 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite;
+  }
+  
+  @keyframes shimmer{
+    0% { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
+  }

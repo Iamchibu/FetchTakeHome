@@ -1,0 +1,45 @@
+.your-match{
+    color: brown;
+    font-size: 30px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .match-container{
+    /* flex-direction: row;  */
+    display: flex; 
+    width: 100%; 
+    height: 100%;
+  }
+  
+  .error-message{
+    color: red;
+    background-color: pink;
+    font-weight: bold;
+    margin: 20px;
+  }
+  
+  .pickup-text{
+    color: brown;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 0.5rem;
+    margin-left: 15px;
+  }
+  
+  .pick-up-button{
+    padding: 10px 20px;
+    background-color: #7d7dfb;
+    border: none;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.2s;
+    margin-left: 15px;
+    margin-bottom: 60px;
+  }
+  
+  .pick-up-button:hover{
+    background-color: #5c5ce4;
+  }
