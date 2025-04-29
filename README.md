@@ -1,7 +1,8 @@
 # FetchTakeHome
 How to run the website:
-1. npm run start
-2. then test
+1. npm install
+2. npm run start
+3. then test
 
 ## Login page
 - Enter your name and email
