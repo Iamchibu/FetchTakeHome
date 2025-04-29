@@ -35,7 +35,7 @@ Welcome to **Fetch's Dog Matcher**🐕, a dog matchmaking app where users can lo
   _(Page numbers may vary depending on the filters applied.)_
 - Click the **heart icon** on any dog card to mark it as a favorite.
 - After selecting favorites, click the **Generate Match** button located beneath the pagination.
-- A dialog will show your best match — click **View Match** to continue.
+- A dialog will show **View Match** to continue.
 
 ---
 
