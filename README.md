@@ -2,7 +2,7 @@
 
 Welcome to **Fetch's Dog Matcher**🐕, a dog matchmaking app where users can log in, browse dogs, favorite their picks, and find their perfect dog match.
 
-🔗 **Live App**: [https://fetchs-dog-matcher.vercel.app/match](https://fetchs-dog-matcher.vercel.app/match)
+🔗 **Live App**: [https://fetchs-dog-matcher.vercel.app](https://fetchs-dog-matcher.vercel.app)
 
 ---
 
